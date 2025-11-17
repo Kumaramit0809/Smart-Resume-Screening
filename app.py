@@ -6,7 +6,8 @@ from utils.skill_matcher import match_skills
 
 st.title("🧠 Smart Resume Screening using NLP")
 
-nlp = spacy.load("en_core_web_sm")
+import en_core_web_sm
+nlp = en_core_web_sm.load()
 
 uploaded_file = st.file_uploader("Upload Resume (PDF only)", type=["pdf"])
 
