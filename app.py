@@ -1,15 +1,20 @@
 import streamlit as st
 import spacy
+from spacy.cli import download as spacy_download
 from utils.resume_parser import extract_text_from_pdf
 from utils.text_cleaner import clean_text
 from utils.skill_matcher import match_skills
 
+
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    spacy_download("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
+
 st.title("🧠 Smart Resume Screening using NLP")
 
-nlp = spacy.load("en_core_web_sm")
-
 uploaded_file = st.file_uploader("Upload Resume (PDF only)", type=["pdf"])
-
 job_description = st.text_area("Paste Job Description")
 
 if st.button("Analyze"):
