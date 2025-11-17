@@ -1,0 +1,26 @@
+Details
+Responsibilities:
+
+You will be working in a fast-paced and agile work culture delivering technology products that have an immediate business impact.
+Be responsible for end-to-end development and maintenance of the features and products, including communication with frontend, DevOps and QA teams.
+Proactively identify technical initiatives that help us in strengthening the scalability, security, and maintainability of our technology infrastructure.
+Write highly scalable and maintainable code while keeping agility in mind.
+Embrace and drive the future of development by integrating AI-powered tools and workflows into your daily engineering practices, fostering innovation and efficiency.
+Requirements:
+
+1 years of Core software engineering experience in a product startup.
+Hands-on development experience with at least 2 programming languages, including dynamically typed and object-oriented languages, preferably Ruby and JAVA.
+Working experience with web development frameworks, preferably Ruby on Rails and SpringBoot.
+Working experience with SQL and NoSQL databases and advanced concepts.
+Experience working on scalable systems to handle billions of requests is an additional factor which can distinguish you from other candidates.
+Ability to write code/APIs with DRY/KISS and SOLID principles in mind.
+Experience in writing unit integration tests with good code coverage.
+Hands-on experience in designing and working with microservices.
+A proactive approach to leveraging AI in software development, with an eagerness to explore and implement AI-assisted workflows for enhanced productivity and problem-solving.
+Perks:
+
+An extensive medical insurance that looks out for our employees & their dependents. We’ll love you and take care of you, our promise.
+Flobiz Academy: Helps you in terms of Learning and enhancing your skills.
+Competitive salary.
+A reward system that celebrates hard work and milestones and Performances throughout the year.
+A cool office to make you feel at home. An environment so good that you won't miss your home.

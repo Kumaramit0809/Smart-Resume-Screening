@@ -1,0 +1,28 @@
+Details
+Responsibilities of the Candidate:
+
+Design, develop, test, and deploy features for our web-based automation platform.
+Build and maintain both frontend and backend components:
+Frontend: Develop responsive dashboards, workflow builders, and UI components using React/Next.js and modern design frameworks.
+Backend: Develop APIs, automation logic, and integrations using Node.js/Express.
+Model and optimize databases using PostgreSQL and MongoDB.
+Integrate AI models and automation agents into the platform.
+Implement webhooks, schedulers, and background jobs for workflow automation.
+Write clean, maintainable code, perform code reviews, and contribute to documentation.
+Follow modern practices in security, testing, CI/CD, and scalable SaaS architecture.
+Requirements:
+
+Strong understanding of HTML, CSS, JavaScript, and at least one modern frontend framework (React or Next.js preferred).
+Practical experience with Node.js/Express and REST API development.
+Good working knowledge of both PostgreSQL (SQL) and MongoDB (NoSQL).
+Experience with Git and collaborative development workflows (branching, pull requests, reviews).
+Familiarity with OAuth2, API integrations, and handling of external services (e.g., Outlook, Gmail, Slack).
+Understanding of Docker and basic CI/CD pipelines (e.g., GitHub Actions).
+
+Knowledge of Prisma or Mongoose, TypeScript, and API testing tools such as Postman.
+Awareness of state management libraries like Zustand, Redux, or Context API.
+Understanding of cloud environments (Azure/AWS) and secure secrets handling.
+Experience working with automation tools or APIs (Langflow, n8n, Zapier) and data exchange formats such as JSON and XML.
+Basic Python scripting ability for testing or AI-related tasks.
+Curiosity to understand real-world enterprise workflows such as ERP or accounting processes.
+Strong problem-solving mindset, ability to work independently, and clear communication skills.

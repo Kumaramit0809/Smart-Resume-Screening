@@ -1,0 +1,31 @@
+What you'll do?
+
+Design, build, and document RESTful APIs (FastAPI/Flask/Django) consumed by real users and internal services
+Model data and implement relational schemas (PostgreSQL/MySQL), migrations, and query optimization
+Implement ad-hoc automations and backend utilities (cron jobs, CLIs, webhooks, ETL tasks)
+Apply data-science/ML pragmatically (inference, small pipelines, embeddings/classifiers) to streamline workflows
+Add observability (structured logs, metrics, health checks) and production-grade error handling
+Ship with Docker, write basic CI/CD pipelines, and deploy to a VPS/cloud target
+Contribute to open-source (bug fixes, docs, small features) and participate in code reviews
+Collaborate asynchronously across multiple projects with clear PRs, design notes, and checklists
+Must-have skills
+
+API development: Prior experience shipping REST endpoints and handling auth, validation, and pagination
+Backend framework: Proficiency with at least one of FastAPI / Flask / Django
+Databases: Strong SQL fundamentals, schema design, indexing, migrations, and transactions (PostgreSQL/MySQL)
+Breadth: Comfort jumping between backend, data-science tasks, and one-off automations
+Reasoning: Solid mathematical & logical problem-solving; you can break down ambiguous specs
+DevOps basics: Docker, simple CI/CD, environment management, and VPS setup
+Code quality: Clean, testable Python; typing where useful; linting; meaningful commit history
+Nice-to-haves
+
+Caching (Redis), task queues (RQ/Celery), or pub/sub
+Auth patterns (JWT/session), RBAC/ABAC
+Performance profiling (cProfile, py-spy), SQL EXPLAIN skills
+Basic front-of-house skills (Postman collections, OpenAPI, minimal docs)
+Exposure to vector DBs/LLM tooling, or lightweight feature engineering
+Tech-stack that you'll work on
+
+Python: FastAPI, Pydantic, SQLAlchemy/psycopg
+Data/Infra: PostgreSQL/MySQL, Redis; Docker; GitHub Actions (CI/CD)
+Ops: Nginx/Caddy, systemd, basic Linux administration; observability via logs/metrics

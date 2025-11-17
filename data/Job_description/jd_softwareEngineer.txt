@@ -1,0 +1,58 @@
+Location: Hyderabad
+
+Fresher Hiring Positions (Role + Location): Trainee Low Code No Code Developer, Hyderabad
+
+Eligibility for Freshers: Computer Science engineering graduates or equivalent degree.
+
+Salary: Stipend - Rs. 20,000 PM for initial 6 months, post that Rs. 6 LPA.
+
+Work Hours: 12:30 PM to 9:30 PM
+
+Terms of Employment: Temporary full-time contractor for 6 months
+
+Employment Bond: No bond during the first 6 months. If a fresher candidate is hired full-time after the
+initial 6 months, the candidate is willing to sign a 2-year employment contract with the company from the date of joining.
+
+Different Rounds: Technical Round 1, Final Round with Sr. Director & HR (If shortlisted, the candidate must be available for an in-person interview in Hyderabad)
+
+Detailed JD (If multiple, please specify): Trainee Low Code No Code Developer:
+
+Any specific skill that you are looking for from a candidate: 
+Logical &amp; mathematical reasoning, excellent verbal and written English.
+Basic knowledge of databases & SQL; UI using HTML & CSS; APIs and other web services.
+Basic knowledge of scrum methodology or other agile software development approaches.
+Knowledge of why load and performance testing is required for optimal performance.
+Understands the developer role across all stages of application lifecycle management.
+
+Any specific trait in the candidate (if identified) leading to rejection: Lack of software development
+knowledge, not showing curiosity about learning new technologies, hesitation to ask questions or hold
+meaningful conversations with peers/trainers, preferring a full-stack developer career.
+
+Position Summary: As a Trainee Low Code No Code Developer, you will be primary focus will be learning the client BPMN platform and successfully completing the Low Code No Code Developer Certification. This includes understanding the fundamental concepts, terminology used, and development process, following instructions provided by the trainer, and completing the weekly learning goals, including submitting your assignments completed and on time. Post-certification, you will be assigned to a live customer project as an apprentice and work under the supervision of a senior/experienced developer
+
+Essential Functions / Priorities: What You’ll Do:
+
+During the 6 months commit to learning and becoming proficient with the BPM Platform which
+	includes successfully achieving the BPMN Developer certification.
+Work under the supervision of a senior BPMN Developer on live projects that impact clients by
+partnering throughout the entire life-cycle of projects to define, design, develop, and implement custom software solutions using clents’ automation platform.
+Participate in discussions with external clients to understand their business processes and technical needs.
+Contribute to conceptual technical solutions and make changes based on the client’s feedback in an Agile environment.
+Participate in the design, build, and launch of new relational data models in production.
+Contribute towards the development of APIs to integrate with multiple systems.
+Contribute towards adoption by empowering clients to become self-sufficient with building process applications on their own.
+ Participate in discussions with client’s technical teams and business users as needed throughout the entire software development life cycle as part of the project team under the supervision of a senior.
+Review business process documents and functional and technical system requirements.
+Not an order taker; asks “why” questions and solves the right problems.
+Passionate about technology and enjoys continuously learning.
+An excellent communicator who is comfortable presenting to both technical and non-technical audiences.
+
+What You’ll Bring:
+
+1. Engineering, Computer Science, Information Systems, Mathematics, or related technical experience
+2. Technically minded individual
+3. Logical thinker
+4. Interested in problem-solving
+5. Customer Service Focused
+6. Willing to learn and follow directions
+7. Good written and verbal communication skills
